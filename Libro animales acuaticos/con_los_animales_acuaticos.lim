@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <corbanda>0080FF</corbanda>
+        <cornavega>2FC0D0</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>Animales acuaticos</titulo>
+        <autor>Stefany Garcia</autor>
+        <iden>2022165014</iden>
+        <logo>marine-background-with-aquatic-animals-vector.jpg</logo>
+        <imaxefondo posx="-14" posy="-30" trans="45">marine-background-with-aquatic-animals-vector.jpg</imaxefondo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >Muy bien</correcto>
+        <incorrecto son="" modo="1" >Sigue intentando</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>3</tipo>
+              <cabeceira>Arma el rompecabeza y descubre los animales</cabeceira>
+              <imaxe>marine-background-with-aquatic-animals-vector.jpg</imaxe>
+              <filas>3</filas>
+              <columnas>2</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="2" >
+              <tipo>20</tipo>
+              <cabeceira>Arrastra las palabras para nombrar a cada animal acuaticos</cabeceira>
+              <imaxe>png-transparent-cartoon-marine-animals-dolphin-crab-tortoise-thumbnail.png</imaxe>
+              <modo>3</modo>
+              <etiqueta posx="277" posy="46">Caballito de mar</etiqueta>
+              <etiqueta posx="31" posy="320">Pez</etiqueta>
+              <etiqueta posx="227" posy="265">Pulpo</etiqueta>
+              <etiqueta posx="171" posy="148">Cangrejo</etiqueta>
+              <etiqueta posx="83" posy="82">Delfin</etiqueta>
+              <etiqueta posx="39" posy="201">Tortuga de mar</etiqueta>
+        </paxina>
+        <paxina id="3" >
+              <tipo>17</tipo>
+              <cabeceira>Une las parejas</cabeceira>
+              <parellas>tiburon.jpeg</parellas>
+              <parellas>caballito_de_mar.jpg</parellas>
+              <parellas>estrella_de_mar.jpg</parellas>
+              <parellas>pez.jpg</parellas>
+              <parellas>delfin.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>000000</ctapa>
+              <tempo>60</tempo>
+        </paxina>
+        <paxina id="4" >
+              <tipo>35</tipo>
+              <cabeceira>Ordena los animales acuaticos: 1 caballito de mar, 2 estrella de mar, 3 delfin, 4 pez, 5 tiburon.</cabeceira>
+              <forma>0</forma>
+              <completa>caballito_de_mar.jpg</completa>
+              <completa>estrella_de_mar.jpg</completa>
+              <completa>delfin.jpg</completa>
+              <completa>pez.jpg</completa>
+              <completa>tiburon.jpeg</completa>
+        </paxina>
+        <paxina id="5" >
+              <tipo>7</tipo>
+              <cabeceira>Clasifica los animales acuaticos y los terrestres</cabeceira>
+              <caixa1>Animales acuáticos </caixa1>
+              <caixa2>Animales terrestres</caixa2>
+              <mini caixa="2">Caballo.jpg</mini>
+              <mini caixa="1">tiburon.jpeg</mini>
+              <mini caixa="1">estrella_de_mar.jpg</mini>
+              <mini caixa="2">Conejo.jpg</mini>
+              <mini caixa="2">perro.jpg</mini>
+              <mini caixa="1">pez.jpg</mini>
+              <cfondo>FFFFFF</cfondo>
+        </paxina>
+        <paxina id="6" >
+              <tipo>51</tipo>
+              <cabeceira>Encuentra el animal acuático</cabeceira>
+              <valor>4</valor>
+              <peza imaxe="pez.jpg">1</peza>
+              <peza imaxe="Conejo.jpg">2</peza>
+              <cadro>1</cadro>
+        </paxina>
+    </libro>
+</lim>
